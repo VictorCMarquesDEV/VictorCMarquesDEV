@@ -1,7 +1,12 @@
 # Olá, eu sou Victor Cavalcanti!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCMarquesDEV&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCMarquesDEV&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+#### Estudante de Engenharia da Computação pela Universidade Federal do Vale do São Francisco (UNIVASF) desde 2021. Possui experiência como programador Front-End com o framework WordPress e as linguagens JavaScript, HTML5 e CSS3, e Back-End com as linguagens C, C++, Python 3, Java Básico e Java Orientada a Objetos - POO.
+#
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorCMarquesDEV&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"> 
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCMarquesDEV&layout=compact&theme=tokyonight"> 
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="VCM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
