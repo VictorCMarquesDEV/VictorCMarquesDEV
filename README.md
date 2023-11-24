@@ -2,10 +2,10 @@
 #### Estudante de Engenharia da Computação pela Universidade Federal do Vale do São Francisco (UNIVASF) desde 2021. Possui experiência como programador Front-End com o framework WordPress e as linguagens JavaScript, HTML5 e CSS3, e Back-End com as linguagens C, C++, Python 3, Java Básico e Java Orientada a Objetos - POO.
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorCMarquesDEV&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"> 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCMarquesDEV&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"> 
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCMarquesDEV&layout=compact&theme=tokyonight"> 
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCMarquesDEV&layout=compact&theme=tokyonight"> 
 </a>
 
 <div style="display: inline_block"><br>
