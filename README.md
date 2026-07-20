@@ -1,5 +1,5 @@
 # Olá, eu sou Victor Cavalcanti!
-#### Estudante de Engenharia da Computação pela Universidade Federal do Vale do São Francisco (UNIVASF) desde 2021. Possuo experiência como programador Front-End com o framework WordPress e as linguagens JavaScript, HTML5 e CSS3, Back-End com as linguagens Python 3 com Django e Java Orientado a Objetos - POO e Mobile com a linguagem Kotlin e React Native com NodeJS.
+#### Estudante de Engenharia da Computação pela Universidade Federal do Vale do São Francisco (UNIVASF) desde 2022. Possuo experiência como programador Front-End com o framework WordPress e React, e as linguagens JavaScript, HTML5 e CSS3, Back-End com as linguagens Python 3 com Django, NodeJS e Java Orientado a Objetos - POO, Mobile com a linguagem React Native com NodeJS, Banco de Dados com o PostgreSQL, mySQL e Supabase, API Rest e Testes Automatizados com o Cypress e Maestro.
 #
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorCMarquesDEV&show_icons=true&theme=tokyonight&include_all_commits=true"> 
